@@ -4,8 +4,6 @@ Introducing Cinefy, a Dynamic Movie and TV show Discovering Web Application show
 
 🌐 Powered by the API from The Movie Database (TMDb), Cinefy provides seamless access to a vast array of content, ensuring users stay up-to-date with the latest releases and timeless classics alike. 📱 What's more, Cinefy isn't just limited to desktops – it's fully responsive, ensuring a smooth and intuitive experience across devices, from desktops to smartphones. 📱💨
 
-🌟Try this Out: https://lnkd.in/dPwkZDE7
-
 
 ✨ Used these to make it more Awesome:
 
@@ -19,4 +17,5 @@ Introducing Cinefy, a Dynamic Movie and TV show Discovering Web Application show
 
 • Swiper JS - 🔄 Facilitates interactive and touch-friendly carousel/slider functionality for enhanced content presentation.
 
-- [https://cinefy-webapp.netlify.app/](Check the Web App out!)
+
+# [Check the Web App out!](https://cinefy-webapp.netlify.app/)
